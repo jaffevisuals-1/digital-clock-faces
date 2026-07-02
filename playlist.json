@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "app": "Digital Animation Clock",
   "packageType": "pi-clock-player",
-  "version": 36,
-  "updatedAt": "2026-07-02T22:39:44.448310Z",
-  "exportedAt": "2026-07-02T22:39:44.448310Z",
+  "version": 37,
+  "updatedAt": "2026-07-02T22:40:02.988546Z",
+  "exportedAt": "2026-07-02T22:40:02.988546Z",
   "designOrder": [
     "design-mr2qxb72-s637fz09"
   ],
@@ -15,7 +15,7 @@
       "createdAt": "2026-07-02T00:08:09.710Z",
       "updatedAt": "2026-07-02T12:41:31.391Z",
       "durationMinutes": 30,
-      "clockVideo": "releases/36/media/clock-face-2-clock-tangtd8z-pi.gif",
+      "clockVideo": "releases/37/media/clock-face-2-clock-tangtd8z-pi.gif",
       "dateVideo": null,
       "fontFile": null,
       "settings": {
@@ -35,12 +35,12 @@
     }
   ],
   "assets": {
-    "releases/36/media/clock-face-2-clock-tangtd8z-pi.gif": {
+    "releases/37/media/clock-face-2-clock-tangtd8z-pi.gif": {
       "bytes": 3086439,
       "sha256": "f85fe86e98ddbbaf249419fae934084325e6368f71502f3f8202e4882f0969a0",
       "contentType": "image/gif"
     }
   },
   "cloudProvider": "github",
-  "cloudPublishedAt": "2026-07-02T22:39:48.601025Z"
+  "cloudPublishedAt": "2026-07-02T22:40:06.106115Z"
 }
