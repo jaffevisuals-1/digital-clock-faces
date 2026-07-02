@@ -2,12 +2,11 @@
   "schemaVersion": 2,
   "app": "Digital Animation Clock",
   "packageType": "pi-clock-player",
-  "version": 38,
-  "updatedAt": "2026-07-02T22:41:40.817614Z",
-  "exportedAt": "2026-07-02T22:41:40.817614Z",
+  "version": 39,
+  "updatedAt": "2026-07-02T22:41:47.645267Z",
+  "exportedAt": "2026-07-02T22:41:47.645267Z",
   "designOrder": [
-    "design-mr2qxb72-s637fz09",
-    "design-mr439wsr-r1oaltd7"
+    "design-mr2qxb72-s637fz09"
   ],
   "designs": [
     {
@@ -16,7 +15,7 @@
       "createdAt": "2026-07-02T00:08:09.710Z",
       "updatedAt": "2026-07-02T12:41:31.391Z",
       "durationMinutes": 30,
-      "clockVideo": "releases/38/media/clock-face-2-clock-tangtd8z-pi.gif",
+      "clockVideo": "releases/39/media/clock-face-2-clock-tangtd8z-pi.gif",
       "dateVideo": null,
       "fontFile": null,
       "settings": {
@@ -33,39 +32,15 @@
         "dateVariant": "classic",
         "dateWeight": 6
       }
-    },
-    {
-      "id": "design-mr439wsr-r1oaltd7",
-      "name": "Clock Face 2",
-      "createdAt": "2026-07-02T22:41:39.146Z",
-      "updatedAt": "2026-07-02T22:41:39.146Z",
-      "durationMinutes": 30,
-      "clockVideo": null,
-      "dateVideo": null,
-      "fontFile": null,
-      "settings": {
-        "previewMode": "edit",
-        "showHands": true,
-        "handColor": "#ffffff",
-        "handThickness": 8,
-        "handStyle": "classic",
-        "markerMode": "dashes",
-        "markerColor": "#ffffff",
-        "markerVariant": "classic",
-        "markerWeight": 4,
-        "dateColor": "#ffffff",
-        "dateVariant": "classic",
-        "dateWeight": 6
-      }
     }
   ],
   "assets": {
-    "releases/38/media/clock-face-2-clock-tangtd8z-pi.gif": {
+    "releases/39/media/clock-face-2-clock-tangtd8z-pi.gif": {
       "bytes": 3086439,
       "sha256": "f85fe86e98ddbbaf249419fae934084325e6368f71502f3f8202e4882f0969a0",
       "contentType": "image/gif"
     }
   },
   "cloudProvider": "github",
-  "cloudPublishedAt": "2026-07-02T22:41:45.204377Z"
+  "cloudPublishedAt": "2026-07-02T22:41:53.129607Z"
 }
