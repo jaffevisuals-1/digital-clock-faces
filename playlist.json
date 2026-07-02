@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "app": "Digital Animation Clock",
   "packageType": "pi-clock-player",
-  "version": 43,
-  "updatedAt": "2026-07-02T22:51:04.244478Z",
-  "exportedAt": "2026-07-02T22:51:04.244478Z",
+  "version": 44,
+  "updatedAt": "2026-07-02T22:51:10.203292Z",
+  "exportedAt": "2026-07-02T22:51:10.203292Z",
   "designOrder": [
     "design-mr2qxb72-s637fz09",
     "design-mr43lzbz-idjqzwzp"
@@ -16,7 +16,7 @@
       "createdAt": "2026-07-02T00:08:09.710Z",
       "updatedAt": "2026-07-02T22:42:02.705Z",
       "durationMinutes": 30,
-      "clockVideo": "releases/43/media/clock-face-2-clock-nt8xdbgg-pi.gif",
+      "clockVideo": "releases/44/media/clock-face-2-clock-nt8xdbgg-pi.gif",
       "dateVideo": null,
       "fontFile": null,
       "settings": {
@@ -38,9 +38,9 @@
       "id": "design-mr43lzbz-idjqzwzp",
       "name": "Clock Face 2",
       "createdAt": "2026-07-02T22:51:02.303Z",
-      "updatedAt": "2026-07-02T22:51:02.303Z",
+      "updatedAt": "2026-07-02T22:51:07.463Z",
       "durationMinutes": 30,
-      "clockVideo": null,
+      "clockVideo": "releases/44/media/clock-face-2-clock-x7irp0sz-pi.gif",
       "dateVideo": null,
       "fontFile": null,
       "settings": {
@@ -60,12 +60,17 @@
     }
   ],
   "assets": {
-    "releases/43/media/clock-face-2-clock-nt8xdbgg-pi.gif": {
+    "releases/44/media/clock-face-2-clock-nt8xdbgg-pi.gif": {
       "bytes": 10274475,
       "sha256": "219f8263e4a07d641da79f60188135c28bdf18a7f7312ce2585ada07852999db",
+      "contentType": "image/gif"
+    },
+    "releases/44/media/clock-face-2-clock-x7irp0sz-pi.gif": {
+      "bytes": 1676339,
+      "sha256": "9247c4e91fe9012f2ed4c69fb167851a8d40acf223b64fb33e3cb609fe6dff3f",
       "contentType": "image/gif"
     }
   },
   "cloudProvider": "github",
-  "cloudPublishedAt": "2026-07-02T22:51:07.937250Z"
+  "cloudPublishedAt": "2026-07-02T22:51:15.735138Z"
 }
