@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "app": "Digital Animation Clock",
   "packageType": "pi-clock-player",
-  "version": 52,
-  "updatedAt": "2026-07-17T14:35:44.055733Z",
-  "exportedAt": "2026-07-17T14:35:44.055733Z",
+  "version": 53,
+  "updatedAt": "2026-07-17T14:47:32.158097Z",
+  "exportedAt": "2026-07-17T14:47:32.158097Z",
   "activeDesignId": "design-mr2qxb72-s637fz09",
   "designOrder": [
     "design-mr2qxb72-s637fz09"
@@ -16,7 +16,7 @@
       "createdAt": "2026-07-02T00:08:09.710Z",
       "updatedAt": "2026-07-17T14:24:27.024Z",
       "durationMinutes": 30,
-      "clockVideo": "releases/52/media/clock-face-2-clock-nt8xdbgg-pi.zip",
+      "clockVideo": "releases/53/media/clock-face-2-clock-nt8xdbgg-pi.zip",
       "dateVideo": null,
       "fontFile": null,
       "settings": {
@@ -36,12 +36,12 @@
     }
   ],
   "assets": {
-    "releases/52/media/clock-face-2-clock-nt8xdbgg-pi.zip": {
-      "bytes": 179956,
-      "sha256": "1961ea71a588ee9eece9dcc7da31f66dcc9deefedc000db02be6bee7300fa46b",
+    "releases/53/media/clock-face-2-clock-nt8xdbgg-pi.zip": {
+      "bytes": 158482,
+      "sha256": "faa3fddc88f51b2e003cc532a8aa7ee2df6f35978c4694524462956c340227ac",
       "contentType": "application/zip"
     }
   },
   "cloudProvider": "github",
-  "cloudPublishedAt": "2026-07-17T14:35:45.826999Z"
+  "cloudPublishedAt": "2026-07-17T14:47:33.263366Z"
 }
