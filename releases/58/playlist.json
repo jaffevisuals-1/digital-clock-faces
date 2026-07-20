@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "app": "Digital Animation Clock",
+  "packageType": "pi-clock-player",
+  "version": 58,
+  "updatedAt": "2026-07-20T14:20:41.822241Z",
+  "exportedAt": "2026-07-20T14:20:41.822241Z",
+  "activeDesignId": "design-mrtb6612-zug756rf",
+  "designOrder": [
+    "design-mr2qxb72-s637fz09",
+    "design-mrtb6612-zug756rf"
+  ],
+  "designs": [
+    {
+      "id": "design-mr2qxb72-s637fz09",
+      "name": "Clock Face 2",
+      "createdAt": "2026-07-02T00:08:09.710Z",
+      "updatedAt": "2026-07-17T14:24:27.024Z",
+      "durationMinutes": 30,
+      "clockVideo": "releases/58/media/clock-face-2-clock-nt8xdbgg-pi.zip",
+      "dateVideo": null,
+      "fontFile": null,
+      "settings": {
+        "previewMode": "circle",
+        "showHands": true,
+        "handColor": "#ffffff",
+        "handThickness": 8,
+        "handStyle": "classic",
+        "markerMode": "dashes",
+        "markerColor": "#ffffff",
+        "markerVariant": "classic",
+        "markerWeight": 4,
+        "dateColor": "#ffffff",
+        "dateVariant": "classic",
+        "dateWeight": 6
+      }
+    },
+    {
+      "id": "design-mrtb6612-zug756rf",
+      "name": "Clock Face 2",
+      "createdAt": "2026-07-20T14:16:55.813Z",
+      "updatedAt": "2026-07-20T14:20:40.369Z",
+      "durationMinutes": 30,
+      "clockVideo": "releases/58/media/clock-face-2-clock-fvwf6xb6-pi.zip",
+      "dateVideo": null,
+      "fontFile": null,
+      "settings": {
+        "previewMode": "edit",
+        "showHands": true,
+        "handColor": "#ffffff",
+        "handThickness": 8,
+        "handStyle": "classic",
+        "markerMode": "dashes",
+        "markerColor": "#ffffff",
+        "markerVariant": "classic",
+        "markerWeight": 4,
+        "dateColor": "#ffffff",
+        "dateVariant": "classic",
+        "dateWeight": 6
+      }
+    }
+  ],
+  "assets": {
+    "releases/58/media/clock-face-2-clock-nt8xdbgg-pi.zip": {
+      "bytes": 201666,
+      "sha256": "e70fbbe3b27e108affeef611869602e40b7d6107c08c289861b0634d2373c1b5",
+      "contentType": "application/zip"
+    },
+    "releases/58/media/clock-face-2-clock-fvwf6xb6-pi.zip": {
+      "bytes": 1226512,
+      "sha256": "7be2342481bea134d767f17f244103d8bd2b92c0481a432e26b1338b959ffa15",
+      "contentType": "application/zip"
+    }
+  },
+  "cloudProvider": "github",
+  "cloudPublishedAt": "2026-07-20T14:20:46.066160Z"
+}
